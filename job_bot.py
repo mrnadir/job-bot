@@ -1,3 +1,4 @@
+import utils.session
 import os, json, requests
 from bs4 import BeautifulSoup
 
